@@ -1,1 +1,2 @@
-# CIT365-F2020-HermanSiarhei
+# CIT365-S2020-SiarheiHerman-MathQuiz
+ CIT365-S2020 week 2 assignment c#
